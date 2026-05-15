@@ -1,10 +1,9 @@
 # Homework
 
-Use this folder for assignments and submission files.
+Use this folder for weekly practice assignments and submission files.
 
-Suggested pattern:
+Folder naming pattern:
 
-- `HW_01/`
-- `HW_02/`
-- `HW_03/`
-
+- `claude-camp-w1-practice/`
+- `claude-camp-w2-practice/`
+- `claude-camp-w3-practice/`
