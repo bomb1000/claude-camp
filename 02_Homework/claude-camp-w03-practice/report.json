@@ -1,0 +1,13 @@
+{
+  "total_students": 12,
+  "country_counts": {
+    "Australia": 2,
+    "Hong Kong": 1,
+    "Korea": 1,
+    "Malaysia": 2,
+    "Singapore": 3,
+    "Taiwan": 3
+  },
+  "completed_bet_count": 7,
+  "completion_rate": 0.58
+}

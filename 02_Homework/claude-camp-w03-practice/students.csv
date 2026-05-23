@@ -1,0 +1,13 @@
+name,email,joined_date,country,bet_status
+Alice Tan,alice@example.com,2026-05-01,Singapore,active
+Bob Chen,bob@example.com,2026-05-02,Australia,completed
+Cara Lee,cara@example.com,2026-05-03,Taiwan,completed
+David Wong,david@example.com,2026-05-04,Singapore,active
+Emma Liu,emma@example.com,2026-05-05,Malaysia,completed
+Frank Ng,frank@example.com,2026-05-06,Taiwan,active
+Grace Ho,grace@example.com,2026-05-07,Hong Kong,completed
+Henry Lim,henry@example.com,2026-05-08,Singapore,completed
+Ivy Park,ivy@example.com,2026-05-09,Korea,active
+Jacky Wu,jacky@example.com,2026-05-10,Taiwan,completed
+Kelly Sun,kelly@example.com,2026-05-11,Malaysia,active
+Leo Smith,leo@example.com,2026-05-12,Australia,completed
